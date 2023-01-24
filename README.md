@@ -43,7 +43,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/118679883/214308148-6d9e93b5-a4f6-4c81-860a-4dc577ab3340.png)
+![image](https://user-images.githubusercontent.com/118679883/214309832-98f90dbc-3860-42fe-950d-5bbc98b083b4.png)
+
 
 
 ## Result
